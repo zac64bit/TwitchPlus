@@ -9,7 +9,7 @@
 
         }
         #title {
-            font-font: "Courier", "Consolas";
+            font-family: "Courier", "Consolas", "Arial", sans-serif;
         }
     </style>
 

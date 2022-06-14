@@ -24,7 +24,7 @@ public class ApplicationConfig {
 
     @Bean(name = "dataSource")
     public DataSource dataSource() {
-        String RDS_ENDPOINT = "twitchp-db.cuf05mgg53s0.us-east-1.rds.amazonaws.com";
+        String RDS_ENDPOINT = "twitchplus-db.cuf05mgg53s0.us-east-1.rds.amazonaws.com";
         String USERNAME = "admin";
         String PASSWORD = "sedf0624903";
         String DB_NAME = "twitch_plus";
